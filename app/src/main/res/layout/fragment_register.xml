@@ -90,8 +90,9 @@
     </LinearLayout>
     <!--Button Register-->
     <Button
+        android:background="@color/colorPrimary"
         android:id="@+id/btnRegister"
-        android:text="@string/login_th"
+        android:text="@string/register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
